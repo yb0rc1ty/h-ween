@@ -1,15 +1,15 @@
 {
-  "appname": "XXXXX",
-  "scope": "BuyerReader",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXX",
-  "buyerid": "XXXXX",
-  "catalogid": "XXXXX",
-  "environment": "prod",
-  "anonymous": false,
-  "base": {
-    "left":true,
-    "right":false,
-    "top":true,
-    "bottom":false
-  }
+	"appname": "Halloween-admin",
+	"scope": "FullAccess",
+	"clientid": "48BCE4F3-0630-4247-BC4B-EE5AA009CD21",
+	"buyerid": "Buyer01",
+	"catalogid": "Buyer01",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
 }
